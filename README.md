@@ -26,5 +26,5 @@ This directory contains an implementation of PCA to perform dimensionality reduc
 This contains a decision tree classifier using scikit-learn and using it to classify the Spotify data set which contains information like a list of songs, features about the song, and whether the individual likes or disliked the song. The implemented decision tree can be used to predict whether this individual would like or dislike a song based on a list of features. 
 
 ## RL
-This is an implementation of value iteration in Frozen-lake environment provided by OpenAI Gym. Frozen lake is a 4x4 or 8x8 grid-world environment. The agent can move up, down, left, and right to reach the goal and avoid falling into the holes. 
+This is an implementation of value iteration in Frozen-lake environment (from OpenAI Gym). Frozen lake is a 4x4 or 8x8 grid-world environment where the agent can move up, down, right, and left to reach the goal and avoid falling into holes. 
 

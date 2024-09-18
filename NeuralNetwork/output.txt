@@ -1,0 +1,4 @@
+X_train is : (59000, 784)
+y_train is : (59000, 10)
+X_val is : (1000, 784)
+y_val is : (1000, 10)
